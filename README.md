@@ -18,12 +18,6 @@ A simple banking system developed using Python. It allows users to create accoun
 * OpenPyXL
 * Microsoft Excel
 
-## How to Run
-
-1. Install Python.
-2. Install OpenPyXL using `pip install openpyxl`.
-3. Run `banking_system.py`.
-
 ## Author
 
 Yogita
